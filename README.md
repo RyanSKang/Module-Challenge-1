@@ -13,9 +13,9 @@ N/A
 
 This application can be used to help consolidate your CSS codes by using the correct semantics in your index.html. After debugging one of the links in the navigation bar because it was missing a unique ID, now you can use the navigation bar to bring you to the intended sections within the website. 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+[assets/images/ScreenshotOfCss.png]
+[assets/images/ScreenshotOfWebsite1.png]
+[assets/images/ScreenshotOfWebsite2.png]
 
 ## Credits
 
