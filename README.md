@@ -13,9 +13,9 @@ N/A
 
 This application can be used to help consolidate your CSS codes by using the correct semantics in your index.html. After debugging one of the links in the navigation bar because it was missing a unique ID, now you can use the navigation bar to bring you to the intended sections within the website. 
 
-[assets/images/ScreenshotOfCss.png]
-[assets/images/ScreenshotOfWebsite1.png]
-[assets/images/ScreenshotOfWebsite2.png]
+![Screenshot 2023-02-24 at 9 47 15 PM](https://user-images.githubusercontent.com/124969918/221339767-8c8bd28d-a679-4877-88e9-17c5d27a8525.png)
+![Screenshot 2023-02-24 at 9 48 35 PM](https://user-images.githubusercontent.com/124969918/221339803-7d31c131-9ea1-434f-9da9-98d996895148.png)
+![Screenshot 2023-02-24 at 9 48 54 PM](https://user-images.githubusercontent.com/124969918/221339812-5f8485a7-b0cb-4106-9af6-cd06972c7b1f.png)
 
 ## Credits
 
